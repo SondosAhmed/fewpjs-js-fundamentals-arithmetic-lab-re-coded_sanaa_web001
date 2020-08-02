@@ -1,4 +1,4 @@
 
 // Write your code here
-function multiply(){
-return 8*8;}
+function multiply(a,b){
+return a*b;}
