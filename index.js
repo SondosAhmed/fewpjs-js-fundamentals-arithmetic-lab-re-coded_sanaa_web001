@@ -1,5 +1,6 @@
 
 // Write your code here
-function multiply(num1,num2){
-return num1*num1;}
-console.log(multiply(8,8));
+let num1=8;
+let num2=8;
+let multiply = function(8,8){
+return 8*8;}
